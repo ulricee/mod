@@ -5285,6 +5285,7 @@ if (ans == 4480) {
 
 // degraffenried wins nomination, wallace turns third party
 if (SupremacistPath == true) {
+ctsAchievement("Even worse");
   campaignTrail_temp.questions_json[10] = tunnel(55699);
   campaignTrail_temp.questions_json[11] = tunnel(55702);
   campaignTrail_temp.questions_json[12] = tunnel(55709);
