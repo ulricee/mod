@@ -5290,7 +5290,6 @@ if (SupremacistPath == true) {
   campaignTrail_temp.questions_json[12] = tunnel(55709);
   campaignTrail_temp.questions_json[13] = tunnel(55716);
   campaignTrail_temp.questions_json[14] = tunnel(55723);
-  ctsAchievement("Even worse");
 }
 if (ans == 55700) {
   switcheroo6();
@@ -5302,6 +5301,7 @@ if (ans == 55700) {
   campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/DFdiA5d.png'
   campaignTrail_temp.running_mate_last_name = "Dixiecrats"
   e.global_parameter_json[0].fields.question_count = 15
+  ctsAchievement("Even worse");
 }
 
 // kkk abandons you after you denounce them twice, supports republican instead  
