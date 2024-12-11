@@ -5556,6 +5556,10 @@ if (ans == 4481 || ans == 4482 || ans == 4483 || ans == 4484 ) {
         switcheroo2();
         e.candidate_json[3].fields.first_name = "William"
         e.candidate_json[3].fields.last_name = "Longshore"
+        nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#975a97";
+        nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#fff0ff";
+        $("#game_window")[0].style.backgroundColor = "#f7f3ff"
+        $(".container")[0].style.backgroundColor = "#3f304d";
     }
 
 if (ans == 15535) {
@@ -5915,4 +5919,4 @@ overallthing=overallthing.replace("Click on a state to view final results.","Cli
 document.getElementById("state_result").innerHTML=overallthing
 }
 }
-window.setInterval(changechart,150)
+window.setInterval(changechart,100)
