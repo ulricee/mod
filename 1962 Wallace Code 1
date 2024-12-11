@@ -220,7 +220,7 @@ document.getElementById("header").src = "https://i.imgur.com/h9A3hqm.png";
 document.body.background = "https://i.imgur.com/JPpgBvE.png";
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#E8FBFF!important;}</style>";
-quotes = ["I advocate hatred of no man, because hate will only compound the problems facing the South."]
+quotes = ["\"I advocate hatred of no man, because hate will only compound the problems facing the South.\""]
 customquote = quotes[Math.floor((Math.random() * quotes.length))]
 
 corrr=`\n<h2>Sweet Home</h2><font id='wittyquote' size='4' color='white'><i><em>`+customquote+`</em></i></font>`
