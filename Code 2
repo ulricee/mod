@@ -5301,6 +5301,11 @@ function switcheroo2() {
     campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/2mOdKA4.png';
     campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/SFM3lW9.png';
     campaignTrail_temp.candidate_last_name = 'McMath';
+    nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#fff0ff";
+    $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
+    quotes = ["To do good, seek justice, correct oppression; defend the fatherless, plead for the widow."]
+    customquote = quotes[Math.floor((Math.random() * quotes.length))]
+    corrr=`\n<h2>Sweet Home</h2><font id='wittyquote' size='4' color='white'><i><em>`+customquote+`</em></i></font>`
 }
 
 function switcheroo3() {
@@ -5313,6 +5318,9 @@ function switcheroo3() {
     document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
     $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
     $(".container")[0].style.backgroundColor = "#393e60";
+    quotes = ["\"I advocate hatred of no man, because hate will only compound the problems facing the South.\""]
+    customquote = quotes[Math.floor((Math.random() * quotes.length))]
+    corrr=`\n<h2>Sweet Home</h2><font id='wittyquote' size='4' color='white'><i><em>`+customquote+`</em></i></font>`
 }
 
 function switcheroo4() {
@@ -5562,9 +5570,7 @@ if (ans == 4481 || ans == 4482 || ans == 4483 || ans == 4484 ) {
         e.candidate_json[3].fields.first_name = "William"
         e.candidate_json[3].fields.last_name = "Longshore"
         nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#6d5a82";
-        nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#fff0ff";
         document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
-        $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
         $(".container")[0].style.backgroundColor = "#3f304d";
     }
 
