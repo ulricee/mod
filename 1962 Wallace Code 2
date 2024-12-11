@@ -5308,6 +5308,11 @@ function switcheroo3() {
     campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/2mOdKA4.png';
     campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/7iz1rAG.png';
     campaignTrail_temp.candidate_last_name = 'Wallace';   
+    nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#565d8f";
+    nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#eef0f6";
+    document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+    $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
+    $(".container")[0].style.backgroundColor = "#393e60";
 }
 
 function switcheroo4() {
