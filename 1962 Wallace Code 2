@@ -5556,8 +5556,10 @@ if (ans == 4481 || ans == 4482 || ans == 4483 || ans == 4484 ) {
         switcheroo2();
         e.candidate_json[3].fields.first_name = "William"
         e.candidate_json[3].fields.last_name = "Longshore"
-        nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#785a7e";
+        nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#6d5a82";
         nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#fff0ff";
+        document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+        $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
         $(".container")[0].style.backgroundColor = "#3f304d";
     }
 
