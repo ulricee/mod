@@ -5303,9 +5303,6 @@ function switcheroo2() {
     campaignTrail_temp.candidate_last_name = 'McMath';
     nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#fff0ff";
     $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
-    quotes = ["To do good, seek justice, correct oppression; defend the fatherless, plead for the widow."]
-    customquote = quotes[Math.floor((Math.random() * quotes.length))]
-    corrr=`\n<h2>Sweet Home</h2><font id='wittyquote' size='4' color='white'><i><em>`+customquote+`</em></i></font>`
     e.election_json[0].fields.has_visits = 0;
 }
 
@@ -5574,6 +5571,9 @@ if (ans == 4481 || ans == 4482 || ans == 4483 || ans == 4484 ) {
         nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#6d5a82";
         document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
         $(".container")[0].style.backgroundColor = "#3f304d";
+        quotes = ["To do good, seek justice, correct oppression; defend the fatherless, plead for the widow."]
+        customquote = quotes[Math.floor((Math.random() * quotes.length))]
+        corrr=`\n<h2>Sweet Home</h2><font id='wittyquote' size='4' color='white'><i><em>`+customquote+`</em></i></font>`
     }
 
 if (ans == 15535) {
