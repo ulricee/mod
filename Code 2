@@ -5502,7 +5502,7 @@ if (ans == 4523){
     }
     
 if (e.player_answers.includes(4372) && e.player_answers.includes(55689)){
-    unlockAchievement("Coalitions make strange bedfellows");
+    ctsAchievement("Coalitions make strange bedfellows");
     }
     
 // degraffenried wins nomination, connor turns third party  
@@ -5542,7 +5542,7 @@ if (ans == 4395) {
         e.candidate_json[2].fields.last_name = "Connor"
         campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/2mOdKA4.png';
         campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/7iz1rAG.png'
-        unlockAchievement("Does your conscience bother you?");
+        ctsAchievement("Does your conscience bother you?");
     }
 
 if ((ans == 4385 || ans == 4386 ) && (Segregation < -2)) {
@@ -5617,7 +5617,7 @@ if (ans == 15523) {
         campaignTrail_temp.question_number=17;
         e.candidate_json[0].fields.first_name = "Lurleen"
         pauseMusic();
-        unlockAchievement("Tell the truth");
+        ctsAchievement("Tell the truth");
     }
     
 if (ans == 4480) {
@@ -5640,11 +5640,10 @@ if (ans == 55700) {
   e.candidate_json[2].fields.last_name = "Republicans"
   e.candidate_json[2].fields.color_hex = "#ff2600"
   campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/xJkxb1E.png'
-  // alternate nsrp pic in files
   campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/DFdiA5d.png'
   campaignTrail_temp.running_mate_last_name = "Dixiecrats"
   e.global_parameter_json[0].fields.question_count = 15
-  unlockAchievement("Even worse");
+  ctsAchievement("Even worse");
 }
 
 // kkk abandons you after you denounce them twice, supports republican instead  
@@ -5674,7 +5673,7 @@ if (ans == 55775) {
     // dies in 1st assassination attempt
   campaignTrail_temp.question_number=17;
   e.candidate_json[0].fields.first_name = "Lurleen"
-  unlockAchievement("Tell the truth");
+  ctsAchievement("Tell the truth");
 }
 
 // 2nd assassination attempt
@@ -5686,7 +5685,7 @@ if (ans == 55833) {
         campaignTrail_temp.question_number=17;
         e.candidate_json[0].fields.first_name = "Lurleen"
         pauseMusic();
-        unlockAchievement("History doesn't repeat itself");
+        ctsAchievement("History doesn't repeat itself");
     }
 };
 
@@ -5795,7 +5794,7 @@ if (aa[0].candidate === 152 && aa[0].popular_votes >= 200000 && SupremacistPath 
     }
 // historical ending
 if (e.player_answers.includes(4391) && aa[0].candidate === 152) {
-unlockAchievement("H for history");
+ctsAchievement("H for history");
     e.header = "<h2>Interview with George Wallace, July 15, 1974.</h2>";
     e.pages.push(`<p>(...)<br><br>WALTER DEVRIES: How would you characterize that following? What do they believe? Have their beliefs changed?<br><br>GEORGE WALLACE: Well...<br><br>WALTER DEVRIES: You say you represent a certain segment. What do they believe?<br><br>GEORGE WALLACE: I think they represent the majority viewpoint in the country. I think people have grown tired of big government. I feel that they feel that government has been pretty much aloof from them. I think they felt that about the Democratic Party in 1972... was just aloof from them. Was just foreign to them. They couldn't relate to it at all. So many things happen to them that they are opposed to. And I don't like to bring up busing because that's not the biggest issue or the only issue. It's a big issue in different places. But when Gallup polls show that 75-80% of the people of both races oppose this particular sort of school maneuver yet it's still forced on the people. They wonder why is it we always have to do what we don't want to do. Is it because a certain few in the country? Do we have an elitist government that a few in the bureaucracy which is stronger, as I said, than the government itself.<br><br>Stronger than the president and stronger than the Congress. They've decreed that it's good for the people to do certain things. And even though the people don't like to do it, they must do it because this super elite group is so determined. I think that's the way they feel. And they feel that the government's aloof. They've found the Democratic Party in '72 adopting a platform that they did not relate with. The great middle class of our country that today is being probably subjected to the most abuse in the tax system of any group in the country. And if you ever destroy the middle class, I think you destroy the group that defends your system and supports the system and holds the system together. And I think they're all recognizing that. Didn't you hear them all talk that way the other day to the Democratic chairman? Same thing I used to talk about. So I think that I represent a broad spectrum of people. In fact it turned out in the governor's race that I represented a pretty broad spectrum of people of all races in this state.<br><br>WALTER DEVRIES: Is that how you explain your continued popularity in this state? I mean you've been around now since 1958. You've been in office since 1962. How do you explain your own hold?<br><br>GEORGE WALLACE: I believe one reason . . . people have been satisfied with the things we do in state government. They're very satisfied. Not completely satisfied. I don't think there's any way to completely satisfy everybody and have a utopia. But I think they've been pretty, generally appreciative of the feeling that this government has had for the great mass of our people.<br><br>(...)</p>`, `<p>WALTER DEVRIES: Is it their identity with you that gives you the strength? If you look at the other southern states, there's been no politician that has lasted as long in the executive office as you have. Right?<br><br>GEORGE WALLACE: That's right.<br><br>WALTER DEVRIES: How do you explain that? Because in all the other states this has not happened. But in Alabama it does happen.<br><br>GEORGE WALLACE: Well, I cannot explain... I can't tell you about other governors or other people. You do know that governors have a hard time being reelected. Or at least beyond a four-year... maybe two two-year terms. You can go to the Senate and the House and it's been a custom in our part of the country because of the seniority system that people have stayed there longer. And they've understood that and that's not difficult to do. But in the executive office it is difficult to do. I think that I've explained it to you in talking about not only the projects and progress we've made in our own state but the fact that they've been represented and they appreciated the fact that you stood in Madison Square Garden and told them you came from a great state. And have the people to stand up and give you a standing ovation. Let them know that even though the newspapers have been writing and making fun of them, the people in New York like them, and knew they were good folks. Were not what they were said to be. You know.<br><br>WALTER DEVRIES: You're saying you really haven't lost touch with that group and they still identify with you. That for other politicians, they have lost touch and people don't identify with them any more?<br><br>GEORGE WALLACE: Many of them. But have you noticed in the last few years how many of them are swinging back to saying exactly what we say? Don't you hear people running for the mayorship of Los Angeles and Atlanta, both races, saying we must have law and order, and if you'll elect me, I'll make it safe to walk on the streets. But when I was raising that issue in '68, they called it something evil. Said it was demagogic. And now... when I talked about the urban welfare mess in '68, Humphrey called it demagogic. For instance. And yet the first thing he said in '72 in Florida was he wanted to get the welfare chiselers and loafers off the welfare rolls. And on the matter of busing. You find the busing bills have been introduced by people like senators from Michigan and people from the state of New York, not Alabama.</p>`);
     e.executable.push([0, (() => { e.image = 'https://i.imgur.com/boA2TRD.png'; })]);
@@ -5803,7 +5802,7 @@ unlockAchievement("H for history");
     }
 // segregationist fail(degraffenried nomination)
 else if (Gaffe == 3 && aa[0].candidate === 152) {
-unlockAchievement("Boohoohoo");
+ctsAchievement("Boohoohoo");
     e.pages.push(`<h2>Civil war among Democrats! Alabama ablaze!</h2><p>As Wallace went back home, not one person could get a word out of his mouth.<br><br>What had happened? It must be some sort of bad joke. It can't be anything but a conspiracy!<br><br>Why... Oh God oh why did that whacko get nominated this year while in '58 he wasn't? Was the democratic party so corrupt? Was he so out of touch?<br><br>Was it because this new liberal wank got elected president and suddenly the whole south thought it good to love blacks now?<br><br>Was he so bad at reading the room that he switched to the losing side like some sort of Alabama Benedict Arnold?<br><br>Was he so unpopular that even people he knew would rather die than see their kid in the same school as blacks refused to even tacitly support him? At least to avoid whatever deGraffenried had in store?<br><br>Or maybe that NAACP thing really had become much much more powerful than he had thought it should have been...<br><br>He never knew where things could have gone so wrong for him but... That is a sting on his pride that would not fade.<br><br>He was but a side character to a much larger story, someone to be forgotten, someone to point and laugh at.<br><br>He was a failure.</p>`, `<h2>Ryan deGraffenried's term:</h2><p>Ryan knew his nomination as Governor is all but a miracle. If Folsom didn't crash and burn, if Wallace hadn't ignored him as a non issue, if Connor hadn't stumbled against him...<br><br>In whichever case, he was now Governor. Governor of a state which absolutely despised him as the biggest of the radicals even though he was only seeking moderate legislation which included bans on lynching and reduction of poll taxes. Legislation that wouldn't be out of place in 1930.<br><br>The Birmingham riot was grisly but it gave him the opportunity to finally axe the corrupt Alabama police for it's complicity in the bombings. Later, as the Civil Rights Act of '64 came into effect, President Lyndon Baines Johnson paid quite a large interest into making sure this state in the deepest reach of the deep south was a model for the rest to follow.<br><br>As such, while the first part of his governorship showed him completely unable to do much of anything, the legislative block being so great he couldn't even organize road renovation, the second part of it had a lot more success, allowing him a healthy lead to gain the governorship in 1966.<br><br>Tragically, ‘Black Hand’ DeGraffenried would die in a plane crash while campaigning, leaving his sometime rival, longtime friend Folsom to succeed him as an integrationist Democrat. At his Eulogy, Folsom would leave Reverend Martin Luther King to give its concluding remarks.<br><br>\"While many could have continued to let things as they were as they never knew but the days they lived, Ryan hoped for a better day for each of us and worked toward it, to move mountains, one stone at a time.\"</p>`);
     e.executable.push([0, (() => { e.image = 'https://i.imgur.com/WzAwufm.png'; })]);
     e.executable.push([1, (() => { e.image = 'https://i.imgur.com/10PPRYN.png'; })]);
@@ -5819,7 +5818,7 @@ else if (e.player_answers.includes(4379) && aa[0].candidate === 154 && aa[0].pop
     }
 // longshore win
 else if (aa[0].candidate === 155 && aa[0].popular_votes < 117000 && SupremacistPath == false && ModeratePath == false) {
-unlockAchievement("Watergate doesn't bother me");
+ctsAchievement("Watergate doesn't bother me");
     e.pages.push(`<h2>Four years on...</h2><p>Lurleen: Georgie, you did say you'd follow me to the end?<br><br>George: That's not the point! It's that I wish what I had to go through on no one else! Especially you!<br><br>Lurleen: Listen, you already told me about my diagnosis, you already told me about the Klan, you already told me about how a woman is but a bait to all those bastards...<br><br>George: And you already told me you wouldn't listen!<br><br>Lurleen: Yes I did! Because it's you that has to listen now Georgie! I'm not your trophy for you to pamper on! I know what those bastards you try to scare me with do to Alabama and I just won't stand idly by anymore!<br><br>George: ... So. You're going through with this?<br><br>Lurleen: I will. With or without you. Though... it’d pain my heart to go without you.<br><br>George: Alright. I'll go with you. Just, be ready to feel it was a huge waste of time Lily.<br><br>Lurleen: I already wasted enough of my time before. With the time I have left, I must do the best with it, for those that will see it to the end.<br><br>George: Lily...<br><br>Lurleen: Don't get emotional on me now. We have a state to save!</p>`, `<h2>William Longshore's term:</h2><p>In an upset for the ages, the democratic split between pro and anti civil rights wings left the way for a Republican to win the bluest state in the union.<br><br>William was a nobody, so much "Will Who?" was a slogan used against him before and after the election. Yet, for his 4 years, he wasn't considered too badly by the population even if the democratic establishment undermined him at each and every turn.<br><br>Even so, while he could pass some tax cuts and reforms helping the school deficit of the state, nothing drastic could ever be done, even less on racial issues where he was absolutely unable to start anything even after the civil right act. LBJ had seemingly used everything in his power to make his life difficult, preferring a dysfunctional Alabama to it becoming a red state.<br><br>As such, William became one of Goldwater's biggest supporter. Helping him win all but Virginia, Missouri, Kentucky and Texas in the south in another big upset in such a doomed election. He would however not see much of it transcribed in '66 where he would soundly be defeated by the democrats.<br><br>In the year that followed, "A Longshore candidate" became a term used by republican for a candidate managing to flip a very safe blue seat, playing on the term "longshot" election. <br><br>As for William, as fast as he came into politics, he soon faded back into obscurity, most likely because of the constant death threats and stress he had to endure as Governor. Still, Longshore became a private reference for those that managed to beat out the odds, to win it all when no one believed it.</p>`);
     e.executable.push([0, (() => { e.image = 'https://i.imgur.com/CYIY7FN.png'; })]);
     e.executable.push([1, (() => { e.image = 'https://i.imgur.com/paG8NoN.png'; })]);
@@ -5838,7 +5837,7 @@ else if (e.player_answers.includes(4379) && aa[0].candidate === 152) {
     e.executable.push([0, (() => { e.image = 'https://i.imgur.com/Fco1TxH.png'; })]);
     e.executable.push([1, (() => { e.image = 'https://i.imgur.com/NvQUc9b.png'; })]);
     setMusic("https://files.catbox.moe/ourgmw.mp3")
-    unlockAchievement("Big wheels keep on turning");
+    ctsAchievement("Big wheels keep on turning");
     }
 // progressive path assassination succeeds
 else if (e.player_answers.includes(15523)) {
@@ -5866,7 +5865,7 @@ else if (ModeratePath == true && aa[0].candidate === 152 && (ans == 55824 || ans
     e.pages.push(`<h2>The wait finally answered</h2><p>There was a certain smug satisfaction in having defeated those bastards at their own games. It was always George's hope to have an election where the race issue was just a side one to the main problem affecting the south, and he had his wish! Furthermore, he had defeated those old money bastards he fought all his life and those hooded idiots that understood only too late that he wasn't going to change positions that easily.<br><br>As the Investigation advanced to its conclusion, the terrorist attack against him was quite obviously perpetrated by a man that had been paid by the Ku Klux Klan. He had the capital, he had the support to clean the house, to purge all that rot that had made Alabama the dysfunctional state that it was, from top to bottom, the heart of Dixie will once again beat true!<br><br>Of course they'll squirm, of course they'll resist, try every trick in the book, probably try and have their stooge inside the new structure, yet, he had a certain Texan behind him and the will of the people to destroy those that had for so long enslaved the south. <br><br>As for blacks, he had spoken in favor of segregation but those positions can be warped. After all, if the influence of those old planters and klan leaders is broken, what will stop him from going back to his old position?<br><br>He knows he will achieve it, maybe not in 4 years, but in 8 and definitely in 20 years, people will see him as the little fighting judge that finally broke the old planters in the most southern of states!</p>`);
     e.executable.push([0, (() => { e.image = 'https://i.imgur.com/9Ju3gCD.png'; })]);
     setMusic("https://files.catbox.moe/xt73iy.mp3")
-    unlockAchievement("On the razor's edge");
+    ctsAchievement("On the razor's edge");
     }
 // moderate path loss
 else if (ModeratePath == true && aa[0].candidate === 155 && (ans == 55824 || ans == 55826 || ans == 55828)) {
@@ -5892,13 +5891,13 @@ else if (e.player_answers.includes(55833)) {
 if (aa[0].candidate === 152 && quickstats[1] > 70 && (ans == 55824 || ans == 55826 || ans == 55828)) {
     e.pages.push(`<h2>\"Wallace for 72\"</h2><p>It is rare to be liked by both sides of the isle.<br><br>Most people that are like that tend to be liked only because they are either long dead or so popular with the public to be untouchable by political concern.<br><br>And here, somehow,  there is someone liked by both while still very much alive and still very much involved into politics.<br><br>Who is that man? George Wallace!<br><br>He fought the Klan, he fought crooks, he fought for state’s rights and for the rights of those living in those states!<br><br>Democrats need a man that fought all his life to give his fair share to the little guy.<br><br>Republicans need a man that will stand strong against those that want to break America!<br><br>America needs a man that will never falter for them, neither at home, in Vietnam or against the Soviets!<br><br>Vote for Wallace in 72! <br><br>He fights for independence, liberty and you!</p>`);
     e.executable.push([1, (() => { e.image = 'https://imgur.com/Bcuv3b5.png'; })]);
-    unlockAchievement("From the White Fields to the White House");
+    ctsAchievement("From the White Fields to the White House");
     }
 // secret ending
 if (e.player_answers.includes(4379) && e.player_answers.includes(4480) && aa[0].candidate === 152) {
     e.pages.push(`<h2>Humphrey to Muskie, April 1968</h2><p>Humphrey: You should know Ed, if it was just about ruling, I would have taken you without a doubt.<br><br>Muskie: I know, I know. Nixon is really taking a few pages out of Barry's book. The south may be completely lost to us if we don't have one of their boys on the ticket.<br><br>Humphrey: That's the sad fact. Honestly, Lyndon would have had a better chance against him than I would really. With only the Midwest and North east coast, I'll make a good show but I'm ain't going far.<br><br>Muskie: Right, both McCarthy and McGovern are no goes. I mean there must be at least some folks that can do good down south no?<br><br>Humphrey: Symington's getting old but... Well there's that Arkansas Governor, McMath? If anything, maybe the third Mc would do the trick?<br><br>Muskie: Haha! Well... The thing is that I'm not sure if he'll be ready to resign his post just to be your VP. He's a very driven guy and maybe our best bet but he could just say no to us.<br><br>Humphrey: That's an unfortunate fact. How about... That Wallace guy? He's big on law and order and better on civil rights than Connally could ever dream of being. Think he'd fit alright? Vietnam won't be an issue for him for one.<br><br>Muskie: Hmmm... Your move Hubert. I'd still prefer Sid personally.<br><br>Humphrey: So would I. I'll reach Little Rock and Birmingham. Let's see what comes out of it.</p>`);
     e.executable.push([2, (() => { e.image = 'https://i.imgur.com/vi4MhJQ.png'; })]);
-    unlockAchievement("Where the skies are oh so blue");
+    ctsAchievement("Where the skies are oh so blue");
     }
 return construct(0);
 };
