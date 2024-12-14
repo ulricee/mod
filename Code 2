@@ -12,6 +12,7 @@
  By using, distributing, or modifying this mod, you agree to abide by the terms and conditions of both the Apache License 2.0 and the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 */
 campaignTrail_temp.questions_json = [
+// do not use grammarcheck.net. it is complete and utter shit. somehow corrected mail to email
     {
         "model": "campaign_trail.question",
         "pk": 698,
@@ -26,7 +27,7 @@ campaignTrail_temp.questions_json = [
         "pk": 699,
         "fields": {
             "priority": 2,
-            "description": "Taking back your race for the governorship, to your right you had people that wouldn’t be out of place in the army of the Confederacy and to your left people who would make northern bleeding hearts for McCarthyists. Nevertheless you need the help of at least some of them to really get through.",
+            "description": "Taking back your race for the governorship, to your right you had people that wouldn’t be out of place in the army of the Confederacy and to your left, people who would make northern bleeding hearts for McCarthyists. Nevertheless, you need the help of at least some of them to really get through.",
             "likelihood": 1
         }
     },
@@ -35,7 +36,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55688,
         "fields": {
             "priority": 0,
-            "description": "While gaining the support of some influential people can get you far, it can never quite get you \"all the way\" as some would say. Once more, you need to hit the trail and find people who would be ready to support you.",
+            "description": "While gaining the support of some influential people can get you far, it can never quite get you \"all the way\" as some would say. Once more, you need to hit the trail and find people who will be ready to support you.",
             "likelihood": 1
         }
     },
@@ -44,7 +45,7 @@ campaignTrail_temp.questions_json = [
         "pk": 711,
         "fields": {
             "priority": 3,
-            "description": "As you know, there has been a lot of trouble since last year because of Freedom Riders, black and white men and women breaking segregation norms by typically sitting in black or white reserved places on the bus or in segregated businesses that don't serve their blood. Delinquents as you know.",
+            "description": "As you know, there has been a lot of trouble since last year because of Freedom Riders, black and white men and women breaking segregation norms by typically sitting in black or white reserved places on the bus or in segregated businesses that don't serve their blood. Delinquents, as you know.",
             "likelihood": 1
         }
     },
@@ -53,7 +54,7 @@ campaignTrail_temp.questions_json = [
         "pk": 700,
         "fields": {
             "priority": 3,
-            "description": "There is a question you were certain never to be able to avoid is the Klan. You already have quite a negative relation with them but what would you say of them today?",
+            "description": "The question you were certain never to be able to avoid is the Klan. You already have quite a negative relationship with them, but what would you say of them today?",
             "likelihood": 1
         }
     },
@@ -62,7 +63,7 @@ campaignTrail_temp.questions_json = [
         "pk": 756,
         "fields": {
             "priority": 3,
-            "description": "You’ve got your image set now. As you checked back on your mail, this is what you found, words you quickly understand to be from the Ku Klux Klan.",
+            "description": "You’ve got your image set now. As you checked back on your mail, this is what you found, words you quickly understood to be from the Ku Klux Klan.",
             "likelihood": 1
         }
     },
@@ -71,7 +72,7 @@ campaignTrail_temp.questions_json = [
         "pk": 703,
         "fields": {
             "priority": 4,
-            "description": "You are the express candidate of the segregationist side of the democratic party of Alabama, and favorite to win. What will you say to motivate the rest of the party to be by your side?",
+            "description": "You are the express candidate of the segregationist side of the Democratic Party of Alabama, and favorite to win. What will you say to motivate the rest of the party to be by your side?",
             "likelihood": 1
         }
     },
@@ -89,7 +90,7 @@ campaignTrail_temp.questions_json = [
         "pk": 705,
         "fields": {
             "priority": 4,
-            "description": "The Montgomery Advertiser which already supported you before in 1958 is proposing you an interview. However, as you get in, some of its members who used to greatly fought against the Ku Klux Klan asked where you actually were on the question.",
+            "description": "The Montgomery Advertiser, which already supported you before in 1958, is proposing you an interview. However, as you get in, some of its members who used to fight greatly against the Ku Klux Klan asked where you actually were on the question.",
             "likelihood": 1
         }
     },
@@ -98,7 +99,7 @@ campaignTrail_temp.questions_json = [
         "pk": 713,
         "fields": {
             "priority": 4,
-            "description": "While the campaign was heating up, as Folsom and moderate Ryan deGraffenried trying to match you for the second turn, Folsom appeared completely drunk on Television. It will certainly cost him the round making you face deGraffenried.",
+            "description": "While the campaign was heating up, as Folsom and moderate Ryan deGraffenried are trying to match you for the second turn, Folsom appeared completely drunk on Television. It will certainly cost him the round making you face deGraffenried.",
             "likelihood": 1
         }
     },
@@ -125,7 +126,7 @@ campaignTrail_temp.questions_json = [
         "pk": 708,
         "fields": {
             "priority": -1,
-            "description": "You’ve got your image set now. As you checked back on your mail, this is what you found, words you quickly understand to be from the Ku Klux Klan.",
+            "description": "You’ve got your image set now. As you checked back on your mail, this is what you found, words you quickly understood to be from the Ku Klux Klan.",
             "likelihood": 1
         }
     },
@@ -134,7 +135,7 @@ campaignTrail_temp.questions_json = [
         "pk": 704,
         "fields": {
             "priority": -1,
-            "description": "It may not have been the plan, but here we are today. As you have become once more the expected candidate for the moderates and progressives of Alabama, the NAACP, once again, proposed their endorsement to you. Will you take it again?",
+            "description": "It may not have been the plan, but here we are today. As you have once more became the expected candidate for the moderates and progressives of Alabama, the NAACP, once again, proposed their endorsement to you. Will you take it again?",
             "likelihood": 1
         }
     },
@@ -143,7 +144,7 @@ campaignTrail_temp.questions_json = [
         "pk": 749,
         "fields": {
             "priority": -1,
-            "description": "As it soon becomes very clear, you may not have even enough votes to put old Bull Connor to a second turn if you don’t get the support of those on the side as you. The worst you’ll look in the first turn, the less people will trust you for the second after all.",
+            "description": "As it soon becomes very clear, you may not have even enough votes to put old Bull Connor to a second round if you don’t get the support of those on the same side as you. The worst you’ll look in the first round, the less people will trust you for the second after all.",
             "likelihood": 1
         }
     },
@@ -152,7 +153,7 @@ campaignTrail_temp.questions_json = [
         "pk": 707,
         "fields": {
             "priority": -1,
-            "description": "As the election is becoming very competitive, you find yourself once again called by the Montgomery Advertiser. As the Alabama Journal has taken the side of Bull as the providential candidate, this journal which gained its reputation in taking out the Klan wishes to help you just like in 58.",
+            "description": "As the election is becoming very competitive, you find yourself once again called by the Montgomery Advertiser. As the Alabama Journal has taken the side of Bull as the providential candidate, this journal which gained its reputation in taking out the Klan wishes to help you just like in '58.",
             "likelihood": 1
         }
     },
@@ -161,7 +162,7 @@ campaignTrail_temp.questions_json = [
         "pk": 743,
         "fields": {
             "priority": -1,
-            "description": "Closing in on the nomination, you’ve heard that the republican nominee of '58 William Longshore is running again for the Republican ticket, and is hoping for your support if you were to lose the election to defeat Bull. What do you say of this?",
+            "description": "Closing in on the nomination, you’ve heard that the Republican nominee of '58 William Longshore is running again for the Republican ticket, and is hoping for your support if you were to lose the election to defeat Bull. What do you say of this?",
             "likelihood": 1
         }
     },
@@ -170,7 +171,7 @@ campaignTrail_temp.questions_json = [
         "pk": 742,
         "fields": {
             "priority": -1,
-            "description": "You’ve been driven from your home state by the corrupted powers of the south once before. Yet, since '57, you had gained quite a bit of popularity to vast swathes of the population. Your only obstacle is remaining united as Dale Alford, another integrationist candidate who is splitting the votes.",
+            "description": "You’ve been driven from your home state by the corrupted powers of the south once before. Yet, since '57, you had gained quite a bit of popularity to vast swathes of the population. Your only obstacle is remaining united is Dale Alford, another integrationist candidate splitting the votes.",
             "likelihood": 1
         }
     },
@@ -179,7 +180,7 @@ campaignTrail_temp.questions_json = [
         "pk": 745,
         "fields": {
             "priority": -1,
-            "description": "Those are the final hours, as the final votes for the party are counted, you hold your wife's hand tighter than you have for a long time. As the final few votes are taken, you can hear the result being howled.",
+            "description": "These are the final hours, as the final votes for the party are counted, you hold your wife's hand tighter than you have for a long time. As the final few votes are taken, you can hear the result being howled.",
             "likelihood": 1
         }
     },
@@ -215,7 +216,7 @@ campaignTrail_temp.questions_json = [
         "pk": 751,
         "fields": {
             "priority": -1,
-            "description": "As the day goes by, fights between different supporters of the three candidates have begun to attract the eyes of the broader United States as many look at an Alabama close to a complete collapse whoever wins in the end. The federal government still finds you as their best bet, who shall you seek help from?",
+            "description": "As the day goes by, fights between different supporters of the three candidates have begun to attract the eyes of the broader United States as many look at an Alabama close to a complete collapse whoever wins in the end. The federal government still finds you as their best bet. Who shall you seek help from?",
             "likelihood": 1
         }
     },
@@ -233,7 +234,7 @@ campaignTrail_temp.questions_json = [
         "pk": 702,
         "fields": {
             "priority": -1,
-            "description": "As you get back to your last speech. You feel like you had just gone back to war those few weeks. The constant stress, the howls, the riots. Looking back at Lurleen, you knew you had not been a great husband to her. But today, you had a task to achieve, for her, for all.",
+            "description": "As you get back to your last speech, you feel like you had just gone back to war those few weeks. The constant stress, the howls, the riots. Looking back at Lurleen, you knew you had not been a great husband to her. But today, you had a task to achieve, for her, and for all.",
             "likelihood": 1
         }
     },
@@ -242,7 +243,7 @@ campaignTrail_temp.questions_json = [
         "pk": 755,
         "fields": {
             "priority": -2,
-            "description": "Those are the final hours, as the final votes for the party are counted, you hold your wife's hand tighter than you have for a long time. As the final few votes are taken, you can hear the result being howled.",
+            "description": "These are the final hours, as the final votes for the party are counted, you hold your wife's hand tighter than you have for a long time. As the final few votes are taken, you can hear the result being howled.",
             "likelihood": 1
         }
     },
@@ -278,7 +279,7 @@ campaignTrail_temp.questions_json = [
         "pk": 15537,
         "fields": {
             "priority": -1,
-            "description": "As it soon becomes very clear, you may not have even enough votes to put old Bull Connor to a second turn if you don’t get the support of those on the side as you. The worst you’ll look in the first turn, the less people will trust you for the second after all.",
+            "description": "As it soon becomes very clear, you may not have even enough votes to put old Bull Connor to a second round if you don’t get the support of those on the same side as you. The worst you’ll look in the first round, the less people will trust you for the second after all.",
             "likelihood": 1
         }
     },
@@ -287,7 +288,7 @@ campaignTrail_temp.questions_json = [
         "pk": 15542,
         "fields": {
             "priority": -1,
-            "description": "As it soon becomes very clear, you may not have even enough votes to put old Bull Connor to a second turn if you don’t get the support of those on the side as you. The worst you’ll look in the first turn, the less people will trust you for the second after all.",
+            "description": "As it soon becomes very clear, you may not have even enough votes to put old Bull Connor to a second round if you don’t get the support of those on the same side as you. The worst you’ll look in the first round, the less people will trust you for the second after all.",
             "likelihood": 1
         }
     },
@@ -296,7 +297,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55699,
         "fields": {
             "priority": -3,
-            "description": "Somewhere, things felt wrong when you reached the final day of the primaries. Somewhere, you felt like the shakes of you colleagues felt less sincere. As you heard the count, you realize there was a betrayal right in the heart of the deep south. The scallywags just stole the damn election! Ryan deGraffenried was unexpectedly elected, giving out a speech booed by everyone as he called himself candidate for the democratic party.",
+            "description": "Somewhere, things felt wrong when you reached the final day of the primaries. Somewhere, you felt like the handshakes of you colleagues were less sincere. As you heard the count, you realize there was a betrayal right in the heart of the deep south. The scallywags just stole the damn election! Ryan deGraffenried was unexpectedly elected, giving out a speech booed by everyone as he called himself candidate for the Democratic Party.",
             "likelihood": 1
         }
     },
@@ -305,7 +306,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55702,
         "fields": {
             "priority": -3,
-            "description": "There is a searing hate in the eyes of those that were betrayed by the party of Jefferson Davis. Many of them cannot quite believe what just happen or even understand in their hearts that this must not stand. We need to win hearts now, not tomorrow, not next election, but now.",
+            "description": "There is a searing hate in the eyes of those that were betrayed by the party of Jefferson Davis. Many of them cannot quite believe what just happened or even understand in their hearts that this must not stand. We need to win hearts now, not tomorrow, not next election, but now.",
             "likelihood": 1
         }
     },
@@ -332,7 +333,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55723,
         "fields": {
             "priority": -3,
-            "description": "Alabama was in flames. Nothing was working here anymore. You did feel like you may have taken things too far to finally have power, but you could smell it now. You were entering into history, be it as a faillure or a victor, this feeling was something like no other. Your couple was soon to be separate but equal, but who cared about alliances when you had supreme victory at the tip of your finger?",
+            "description": "Alabama was in flames. Nothing was working here anymore. You did feel like you may have taken things too far to finally have power, but you could smell it now. You were entering into history, be it as a failure or a victor, this feeling was something like no other. Your couple was soon to be separate but equal, but who cared about alliances when you had supreme victory at the tip of your finger?",
             "likelihood": 1
         }
     },
@@ -359,7 +360,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55780,
         "fields": {
             "priority": 0,
-            "description": "After being escorted away, it was armed that the next morning you would see two FBI guards now putting you under their protection in fear of this thing to come again. There was fire in you to ask what the hell were the police doing, why can't your calls to your old acquaintances in the justice system be answered, but it has been snuffed out by silence. You know someone tried and murder you, you know who it may be called by but...you can't do anything about it. The man in the mirror hasn't slept in two days, unable to hold his hand or raise his voice.",
+            "description": "After being escorted away, the next morning you see two FBI guards now putting you under their protection in fear of this thing happening again. There was fire in you to ask what the hell were the police doing, why can't your calls to your old acquaintances in the justice system be answered, but it has been snuffed out by silence. You know someone tried and murder you, you know who it may be called by but...you can't do anything about it. The man in the mirror hasn't slept in two days, unable to hold his hand or raise his voice.",
             "likelihood": 1
         }
     },
@@ -368,7 +369,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55787,
         "fields": {
             "priority": 0,
-            "description": "As you begin to go out of your cage, an old dossier of yours has been resurfacing with a deeply increased credibility. Back in the secound world war, you had an early discharged from your post in the US air force for \"severe anxiety\" and \"psychoneurosis\". This would not usually matter but... Well you know the situation. James D. Martin had a field day!",
+            "description": "As you begin to go out of your cage, an old dossier of yours has been resurfacing with a deeply increased credibility. Back in the second world war, you had an early discharge from your post in the US air force for \"severe anxiety\" and \"psychoneurosis\". This would not usually matter but... Well you know the situation. James D. Martin had a field day!",
             "likelihood": 1
         }
     },
@@ -377,7 +378,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55798,
         "fields": {
             "priority": 0,
-            "description": "As you went to your rallies and saw your competition, it got clear that you two had a hell of a lot in common. You were both officially for the continuation of segregation, both were big on law and order, both were loud-mouthed politicians that broke the party line and you were both supported by the rural part of the state, you by farmers and him by the Klan. You should find a good wedge issue between the two of you.",
+            "description": "As you went to your rallies and saw your competition, it got clear that you two had a hell of a lot in common. You were both officially for the continuation of segregation, both were big on law and order, both were loud-mouthed politicians that broke the party line and both were supported by the rural part of the state, you by farmers and him by the Klan. You should find a good wedge issue between the two of you.",
             "likelihood": 1
         }
     },
@@ -395,7 +396,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55816,
         "fields": {
             "priority": 0,
-            "description": "It's something very basic but... As you continued on your rallies and meetings, you found that those places you bought or the crowds you had were confused on if they should keep themselves segregated or not. Right now, you have large pockets of all white, other black, other mixed, it's complete chaos and many supporters have \"opinions\" on blacks being allowed so close to their wives and daughters.",
+            "description": "It's something very basic but... As you continued on your rallies and meetings, you found that the places you bought and the crowds you had were confused on if they should keep themselves segregated or not. Right now, you have large pockets of all white, others black, others mixed. It's complete chaos and many supporters have \"opinions\" on blacks being allowed so close to their wives and daughters.",
             "likelihood": 1
         }
     },
@@ -404,7 +405,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55823,
         "fields": {
             "priority": 0,
-            "description": "You had cut yourself on the mirror today. You asked Lurleen to go in your stead for the last week as she always liked the crowds, the feds pushed it on you \"for your own safety\". You don't feel yourself shake at all anymore. Still, you realized you had quite a few things put on hold since the attempt on your life. The dice are cast so... Why not take some time to recuperate?",
+            "description": "You had cut yourself on the mirror today. You asked Lurleen to go in your stead for the last week as she always liked the crowds, the Feds pushed it on you \"for your own safety\". You don't feel yourself shake at all anymore. Still, you realized you had quite a few things put on hold since the attempt on your life. The dice are cast so... Why not take some time to recuperate?",
             "likelihood": 1
         }
     },
@@ -413,7 +414,7 @@ campaignTrail_temp.questions_json = [
         "pk": 55830,
         "fields": {
             "priority": 0,
-            "description": "It's something very basic but... As you continued on your rallies and meetings, you found that those places you bought or the crowds you had were confused on if they should keep themselves segregated or not. Right now, you have large pockets of all white, other black, other mixed, it's complete chaos and many supporters have \"opinions\" on blacks being allowed so close to their wives and daughters.",
+            "description": "It's something very basic but... As you continued on your rallies and meetings, you found that the places you bought and the crowds you had were confused on if they should keep themselves segregated or not. Right now, you have large pockets of all white, others black, others mixed. It's complete chaos and many supporters have \"opinions\" on blacks being allowed so close to their wives and daughters.",
             "likelihood": 1
         }
     }
