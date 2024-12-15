@@ -5316,7 +5316,6 @@ function switcheroo2() {
     campaignTrail_temp.candidate_last_name = 'McMath';
     nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#fff0ff";
     $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
-    e.election_json[0].fields.has_visits = 0;
 }
 
 function switcheroo3() {
@@ -5332,7 +5331,6 @@ function switcheroo3() {
     quotes = ["\"I advocate hatred of no man, because hate will only compound the problems facing the South.\""]
     customquote = quotes[Math.floor((Math.random() * quotes.length))]
     corrr=`\n<h2>Sweet Home</h2><font id='wittyquote' size='4' color='white'><i><em>`+customquote+`</em></i></font>`
-    e.election_json[0].fields.has_visits = 1;
 }
 
 function switcheroo4() {
