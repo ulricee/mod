@@ -12,7 +12,6 @@
  By using, distributing, or modifying this mod, you agree to abide by the terms and conditions of both the Apache License 2.0 and the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 */
 campaignTrail_temp.questions_json = [
-// do not use grammarcheck.net. it is complete and utter shit. somehow corrected mail to email
     {
         "model": "campaign_trail.question",
         "pk": 698,
@@ -5698,7 +5697,6 @@ if (ans == 55833) {
         assassy2();
         campaignTrail_temp.question_number=17;
         e.candidate_json[0].fields.first_name = "Lurleen"
-        pauseMusic();
         ctsAchievement("History doesn't repeat itself");
     }
 };
