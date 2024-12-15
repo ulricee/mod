@@ -5402,7 +5402,7 @@ function assassy2() {
 }
 
 cyoAdventure = function (a) { 
-  var ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
+ ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
 
   if(ans == 4368) {
     Segregation += 2;
@@ -5773,7 +5773,7 @@ endingPicker = (out, totv, aa, quickstats) => {
     if (e.player_answers && e.final_overall_results) {
         e.final_overall_results.sort((a, b) => b.popular_votes - a.popular_votes);
     }
-
+ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
 //out = "win", "loss", or "tie" for your candidate
 //totv = total votes in entire election
 //aa = all final overall results data
