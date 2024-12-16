@@ -449,7 +449,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4370,
         "fields": {
             "question": 699,
-            "description": "Let us meet with Bull Connor, If I won’t convince him to just drop out everything for me, I’m sure I can convince him we are of the same character between good Anglo-Saxon stock. We have the same hopes."
+            "description": "Let's meet with Bull Connor, If I can't convince him to just drop out everything for me, I’m sure I can convince him we are of the same character between good Anglo-Saxon stock. We have the same hopes."
         }
     },
     {
@@ -465,7 +465,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4372,
         "fields": {
             "question": 699,
-            "description": "John G. Crommelin is nuts, yes. He’s an antisemite, yes, but! But! If I get him behind me to support my position, It’ll really open up my ways to the segregationist."
+            "description": "John G. Crommelin is nuts, yes. He’s an antisemite, yes, but! But! If I get him behind me to support my position, it’ll really open up my ways to the segregationists."
         }
     },
     {
@@ -481,7 +481,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4374,
         "fields": {
             "question": 700,
-            "description": "The Ku Klux Klan is a terrorist organization. That is their legal status. They are not freedom fighters, they are vigilantes. Their act have brought nothing good to the south and I’ll go as far as to say their fearmongering, lynching and continuous threat of action against anti-lynching laws is what is what brought up the civil rights movement we see today!"
+            "description": "The Ku Klux Klan is a terrorist organization. That is their legal status. They are not freedom fighters, they are vigilantes. Their acts have brought nothing good to the south and I’ll go as far as to say their fearmongering, lynching and continuous threat of action against anti-lynching laws is what brought up the civil rights movement we see today!"
         }
     },
     {
@@ -521,7 +521,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4379,
         "fields": {
             "question": 702,
-            "description": "\"During the next four years, many problems will arise in the matter of segregation and civil rights, as a result of judicial decisions. Having served as judge of the third judicial circuit of Alabama, I feel, my friends, that this judicial experience will be invaluable to me as your governor.… And I want to tell the good people of this state, as a judge of the third judicial circuit, if I didn’t have what it took to treat a man fair, regardless of his color, then I don’t have what it takes to be the governor of your great state.\""
+            "description": "\"During the next four years, many problems will arise in the matter of segregation and civil rights, as a result of judicial decisions. Having served as the Judge of the Third Judicial Circuit of Alabama, I feel, my friends, that this judicial experience will be invaluable to me as your governor.… And I want to tell the good people of this state, as a judge of the Third Judicial Circuit, if I didn’t have what it took to treat a man fairly, regardless of his color, then I don’t have what it takes to be the governor of your great state.\""
         }
     },
     {
@@ -545,7 +545,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4384,
         "fields": {
             "question": 703,
-            "description": "Alabama has suffered from much too long from the influence of powers of money that hold it down from out but also within. I shall fight for the little guy, the one that only truly wishes to have its fair share and is constantly mistreated."
+            "description": "Alabama has suffered much too long from the influence of powers of money that hold it down from out but also within. I shall fight for the little guy, the one that only truly wishes to have its fair share and is constantly mistreated."
         }
     },
     {
@@ -553,7 +553,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4385,
         "fields": {
             "question": 704,
-            "description": "Honestly I have no trouble with those people, however accepting their help is going to just make me unelectable! I’m sure those sympathetic to them will still vote for me, there are no alternatives."
+            "description": "Honestly I have no trouble with those people, however accepting their help is just going to make me unelectable! I’m sure those sympathetic to them will still vote for me, there are no alternatives."
         }
     },
     {
@@ -561,7 +561,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4386,
         "fields": {
             "question": 704,
-            "description": "I will accept. While I have yet to really follow all their radical proposals I really need all the support I can get if I am to get elected and they will have to do."
+            "description": "I will accept. While I have yet to really follow all their radical proposals, I really need all the support I can get if I am to get elected and they will have to do."
         }
     },
     {
@@ -577,7 +577,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4389,
         "fields": {
             "question": 705,
-            "description": "The KKK isn’t the main issue of Alabama anymore. I’m asking you, who’s really breaking the law today? Who’s making the biggest annoyance in our state? That’s not some white folks in hood I guarantee you!"
+            "description": "The KKK isn’t the main issue of Alabama anymore. I’m asking you, who’s really breaking the law today? Who’s making the biggest annoyance in our state? That’s not some white folks in hoods I guarantee you!"
         }
     },
     {
@@ -601,7 +601,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4393,
         "fields": {
             "question": 707,
-            "description": "This is a God send! I’ll get in touch with them immediately. I think what should be done will be to present me as a candidate perfectly in touch with the actual needs of the voters. Less talk about blacks and more asking parents if they want their children to be healthy."
+            "description": "This is a God send! I’ll get in touch with them immediately. I think what should be done is to present me as a candidate perfectly in touch with the actual needs of the voters. Less talk about blacks and more asking parents if they want their children to be healthy."
         }
     },
     {
@@ -609,7 +609,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4394,
         "fields": {
             "question": 707,
-            "description": "This is what I needed! Let’s make this a story of the little guy’s against the planter class. Theophilus Eugene Connor calls himself pro worker but while he supported bills helping them, he also extended polling taxes which disenfranchised those same blue collar and poorer whites! Do you really want him to be your governor? What will he take you away next?"
+            "description": "This is what I needed! Let’s make this a story of the little guys against the planter class. Theophilus Eugene Connor calls himself pro-worker but while he supported bills helping them, he also extended polling taxes which disenfranchised those same blue collar and poorer whites! Do you really want him to be your governor? What will he take away from you next?"
         }
     },
     {
@@ -625,7 +625,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4397,
         "fields": {
             "question": 709,
-            "description": "“We are one people under God. To divide and conquer, people would wish for us to be separated by their hand. Nothing good happened to Arkansas when power went back to the end of those that wished to keep a rotting corpse alive. The south needs to build itself a new future with the arms of every man.”"
+            "description": "\“We are one people under God. To divide and conquer, people would wish for us to be separated by their hand. Nothing good happened to Arkansas when power went back to the ends of those that wished to keep a rotting corpse alive. The south needs to build itself a new future with the arms of every man.\”"
         }
     },
     {
@@ -633,7 +633,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4402,
         "fields": {
             "question": 711,
-            "description": "What those desegregationists are doing is nothing more than breaking the law. Why I can conceive that they may think it is not right and it should not stand, trespassing and sitting are no way to change those things."
+            "description": "What those desegregationists are doing is nothing more than breaking the law. While I can conceive that they may think it is not right and it should not stand, trespassing and sitting are no way to change those things."
         }
     },
     {
@@ -641,7 +641,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4403,
         "fields": {
             "question": 711,
-            "description": "What those kids are doing, is going at a real problem the wrong way. They are avenues for us to slowly peel back the most damaging part of segregation but this is not the way."
+            "description": "What those kids are doing, is going at a real problem the wrong way. They are avenues for us to slowly peel back the most damaging parts of segregation but this is not the way."
         }
     },
     {
@@ -673,7 +673,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4479,
         "fields": {
             "question": 742,
-            "description": "I’ll try to act by his supporters. No one will forget he is a true integrationist, but I’m just a better seller of those ideas than he is by far. Let’s get in touch with them."
+            "description": "I’ll try to act by his supporters. No one will forget that he is a true integrationist, but I’m just a better seller of those ideas than he is by far. Let’s get in touch with them."
         }
     },
     {
@@ -705,7 +705,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4483,
         "fields": {
             "question": 743,
-            "description": "We are to understand that no matter William's party colors, between him and Bull there is but the two faces of a coin, they have no care for the workers of our state and only wish to get themselves elected."
+            "description": "We are to understand that no matter William's party colors, between him and Bull there is but two faces of a coin, they have no care for the workers of our state and only wish to get themselves elected."
         }
     },
     {
@@ -721,7 +721,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4489,
         "fields": {
             "question": 745,
-            "description": "“Lord, I’m leaving me to your grace.”"
+            "description": "\“Lord, I’m leaving me to your grace.\”"
         }
     },
     {
@@ -761,7 +761,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4507,
         "fields": {
             "question": 751,
-            "description": "The master of the Senate has been quite a bit on the backfoot since he got the sideshow job of Vice president. I feel like Johnson could be a good fit for an endorsement. Let’s try and get to him, we both want in desegregation."
+            "description": "The master of the Senate has been quite a bit on the backfoot since he got the sideshow job of Vice President. I feel like Johnson could be a good fit for an endorsement. Let’s try and get to him, we both want desegregation."
         }
     },
     {
@@ -769,7 +769,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4511,
         "fields": {
             "question": 753,
-            "description": "“Who’s there?”"
+            "description": "\“Who’s there?\”"
         }
     },
     {
@@ -801,7 +801,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4518,
         "fields": {
             "question": 755,
-            "description": "“Lord, I’m leaving me to your grace.”"
+            "description": "\“Lord, I’m leaving me to your grace.\”"
         }
     },
     {
@@ -817,7 +817,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15497,
         "fields": {
             "question": 699,
-            "description": "Let’s get back to Jim Folsom. We’ve been close before and I know he would still prefer me to those much much worse than myself out there. Getting his support didn’t get me over the finish line last time but here, it could just do it."
+            "description": "Let’s get back to Jim Folsom. We’ve been close before and I know he would still prefer me over those much much worse than myself out there. Getting his support didn’t get me over the finish line last time but now, it could just do it."
         }
     },
     {
@@ -833,7 +833,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15504,
         "fields": {
             "question": 754,
-            "description": "What? No… Not after… I’ve played by the rules! I bowed to those old farts stupid ideas and… No! They cannot do this to me! Not after all I’ve sacrificed!"
+            "description": "What? No… Not after… I’ve played by the rules! I bowed to those old farts' stupid ideas and… No! They cannot do this to me! Not after all I’ve sacrificed!"
         }
     },
     {
@@ -849,7 +849,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15509,
         "fields": {
             "question": 712,
-            "description": "Let’s attack Bull as a spoiler that will only give the state to the republicans! He’s putting our southern way of life at risk with his sudden candidature!"
+            "description": "Let’s attack Bull as a spoiler that will only give the state to the Republicans! He’s putting our southern way of life at risk with his sudden candidature!"
         }
     },
     {
@@ -857,7 +857,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15511,
         "fields": {
             "question": 712,
-            "description": "We need to push ourselves as the reasonable candidate among the two. William goes the wrong way and Bull the old way. “George knows the right way” they must chant!"
+            "description": "We need to push ourselves as the reasonable candidate among the two. William goes the wrong way and Bull the old way. \“George knows the right way\” they must chant!"
         }
     },
     {
@@ -897,7 +897,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15523,
         "fields": {
             "question": 15522,
-            "description": "“Who’s there?”"
+            "description": "\“Who’s there?\”"
         }
     },
     {
@@ -905,7 +905,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15526,
         "fields": {
             "question": 15525,
-            "description": "“Who’s there?”"
+            "description": "\“Who’s there?\”"
         }
     },
     {
@@ -921,7 +921,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15531,
         "fields": {
             "question": 15528,
-            "description": "Let’s attack Bull as a spoiler that will only give the state to the republicans! He’s putting our southern way of life at risk with his sudden candidature!"
+            "description": "Let’s attack Bull as a spoiler that will only give the state to the Republicans! He’s putting our southern way of life at risk with his sudden candidature!"
         }
     },
     {
@@ -977,7 +977,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15547,
         "fields": {
             "question": 15542,
-            "description": "Let’s get with Ryan! deGraffenried is a bit too much of a radical for the party and he knows it, he cannot possibly win, but if I win, I can help him with some of his hope."
+            "description": "Let’s get with Ryan! deGraffenried is a bit too much of a radical for the party and he knows it, he cannot possibly win, but if I win, I can help him with some of his hopes."
         }
     },
     {
@@ -993,7 +993,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55691,
         "fields": {
             "question": 55688,
-            "description": "Maybe I should continue banking on endorsement? I think that I can try and get the support of the outgoing governor, John M. Patterson. He beat me before, but those things can be patched out especially considering what other bleedin’ hearts are polluting here."
+            "description": "Maybe I should continue banking on endorsement? I think that I can try and get the support of the outgoing governor, John M. Patterson. He beat me before, but those things can be patched up especially considering what other bleedin’ hearts are polluting here."
         }
     },
     {
@@ -1001,7 +1001,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55695,
         "fields": {
             "question": 55688,
-            "description": "There's been a growing number of concerned parent that just can't stand seeing their pretty little girls possibly sharing the same school as big black bucks. Let's get into one of those Citizens' Councils, get to know a few Daughters of The Confederacy, I'm sure they'll get how we're on the same page."
+            "description": "There's been a growing number of concerned parents that just can't stand seeing their pretty little girls possibly sharing the same school as big black bucks. Let's get into one of those Citizens' Councils, get to know a few Daughters of The Confederacy, I'm sure they'll get how we're on the same page."
         }
     },
     {
@@ -1017,7 +1017,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55700,
         "fields": {
             "question": 55699,
-            "description": "The democrats have lost their way, it's time to make a new path for this state if it was to free itself from this tyranny. Call on our friends in the National States' Rights Party, the soul of the south is in danger!"
+            "description": "The Democrats have lost their way, it's time to make a new path for this state if it was to free itself from this tyranny. Call on our friends in the National States' Rights Party, the soul of the south is in danger!"
         }
     },
     {
@@ -1025,7 +1025,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55703,
         "fields": {
             "question": 55702,
-            "description": "I've fought against the establishment, the machine, those that grounded down the hopes of toiling men into dust for their bloated ego's to swell yet larger... They won the Democratic party, but for our soil and our blood, we shall make them pay."
+            "description": "I've fought against the establishment, the machine, those that grounded down the hopes of toiling men into dust for their bloated egos to swell yet larger... They won the Democratic Party, but for our soil and our blood, we shall make them pay."
         }
     },
     {
@@ -1033,7 +1033,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55705,
         "fields": {
             "question": 55702,
-            "description": "It is sad to know, but our heritage is not of the utmost importance to to many among our land, let's speak of their incompetence, let's speak of how this puppet of Washington will drag Alabama further down. The people still care about it's pockets."
+            "description": "It is sad to know, but our heritage is not of the utmost importance to many among our land, let's speak of their incompetence, let's speak of how this puppet of Washington will drag Alabama further down. The people still care about its pockets."
         }
     },
     {
@@ -1049,7 +1049,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55710,
         "fields": {
             "question": 55709,
-            "description": "Our boys are just defending themselves. It is a right of any man to protect his skin, his wife, his daughters and his home. Any man wishing to take that away from us will have to take our freedom from our cold dead hands!"
+            "description": "Our boys are just defending themselves. It is the right of any man to protect his skin, his wife, his daughters and his home. Any man wishing to take that away from us will have to take our freedom from our cold dead hands!"
         }
     },
     {
@@ -1201,7 +1201,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55795,
         "fields": {
             "question": 55787,
-            "description": "How dare he mocks the ailment I suffered?! Should I also mock him for the senility of his parents? Let's put the heat right back on against him, what kind of governor call another man like him lesser for things he cannot control?"
+            "description": "How dare he mocks the ailment I suffered?! Should I also mock him for the senility of his parents? Let's put the heat right back on against him, what kind of governor calls another man like him lesser for things he cannot control?"
         }
     },
     {
@@ -1209,7 +1209,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55799,
         "fields": {
             "question": 55798,
-            "description": "It's a bit of an easy shot but...Why not wave the confederate flag and push ol' Martin as just another scallywag? He's a turncoat! Used to be a democrat just a few years ago! I mean, it had worked for a century, it should still do now."
+            "description": "It's a bit of an easy shot but...Why not wave the Confederate flag and push ol' Martin as just another scallywag? He's a turncoat! Used to be a democrat just a few years ago! I mean, it had worked for a century, it should still do now."
         }
     },
     {
@@ -1217,7 +1217,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55801,
         "fields": {
             "question": 55798,
-            "description": "How about simply painting him to be from the last century? I mean, I won't go so far as to publicly support civil rights but theirs thinking it straight and doing it wrong. Link him to his hardest supporters, the Nazis, the anti-semites, those that want to kill blacks by the truck load, we support state’s right to choose but not the state’s right to oppress. Either he'll drive out the moderates or he'll drive out his base."
+            "description": "How about simply painting him to be from the last century? I won't go so far as to publicly support civil rights but there's thinking it straight and doing it wrong. Link him to his hardest supporters, the Nazis, the anti-semites, those that want to kill blacks by the truck load, we support state's rights to choose but not state's rights to oppress Either he'll drive out the moderates or he'll drive out his base."
         }
     },
     {
@@ -1241,7 +1241,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55808,
         "fields": {
             "question": 55807,
-            "description": "I only know one way to campaign, and that's on the ground. The black belt is filled with shantytowns that can't stand if we're to truly be separate and equal. I've met the poorest of them before, fought for them in court and more, I'm sure they can still see me as not their enemy nor as someone taking their vote for granted."
+            "description": "I only know one way to campaign, and that's on the ground. The black belt is filled with shantytowns that can't stand if we're to truly be separate and equal. I've met the poorest of them before, fought for them in court and more, I'm sure they can still see me as not their enemy nor as someone taking their votes for granted."
         }
     },
     {
@@ -1249,7 +1249,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55811,
         "fields": {
             "question": 55807,
-            "description": "If I can't get through the thick skulls of the young radicals, I guess I can still get it through those of the black middle class. No matter how scorched earth the Klan goes, they do exist. Let's get a few calls rolling, make them feel special, make them feel wanted."
+            "description": "If I can't get through the thick skulls of the young radicals, I guess I can still get it through those of the black middle class. No matter how scorched earth the Klan goes, they do exist. Let's get a few calls rolling, make them feel special, feel wanted."
         }
     },
     {
@@ -1273,7 +1273,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55819,
         "fields": {
             "question": 55816,
-            "description": "Those people are entitled to their opinions and I'm entitled to explain to them that those ain't commands! I'll take a while discussing with them in the crowd, keeping some educated blacks with me to show if not them at least the crowd they don't know what they're talking about!"
+            "description": "Those people are entitled to their opinions and I'm entitled to explain to them that those ain't commands! I'll take a while discussing with them in the crowd, keeping some educated blacks with me to show if not them at least the crowd that they don't know what they're talking about!"
         }
     },
     {
@@ -1281,7 +1281,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55821,
         "fields": {
             "question": 55816,
-            "description": "If I can't de facto separate the crowds I can still make it so de jure. Let's have a few men guard each path and rally by colour the different corteges. I won't be able to completely avoid mixing but I only need them to tolerate it, not love it."
+            "description": "If I can't de facto separate the crowds I can still make it de jure. Let's have a few men guard each path and rally by color the different corteges. I won't be able to completely avoid mixing but I only need them to tolerate it, not love it."
         }
     },
     {
@@ -1321,7 +1321,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55833,
         "fields": {
             "question": 55830,
-            "description": "Those people are entitled to their opinions and I'm entitled to explain to them that those ain't commands! I'll take a while discussing with them in the crowd, keeping some educated blacks with me to show if not them at least the crowd they don't know what they're talking about!"
+            "description": "Those people are entitled to their opinions and I'm entitled to explain to them that those ain't commands! I'll take a while discussing with them in the crowd, keeping some educated blacks with me to show if not them at least the crowd that they don't know what they're talking about!"
         }
     },
     {
@@ -1329,7 +1329,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55835,
         "fields": {
             "question": 55830,
-            "description": "If I can't de facto separate the crowds I can still make it so de jure. Let's have a few men guard each path and rally by colour the different corteges. I won't be able to completely avoid mixing but I only need them to tolerate it, not love it."
+            "description": "If I can't de facto separate the crowds I can still make it so de jure. Let's have a few men guard each path and rally by color the different corteges. I won't be able to completely avoid mixing but I only need them to tolerate it, not love it."
         }
     }
 ]
