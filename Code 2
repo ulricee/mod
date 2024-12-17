@@ -993,7 +993,7 @@ campaignTrail_temp.answers_json = [
         "pk": 55691,
         "fields": {
             "question": 55688,
-            "description": "Maybe I should continue banking on endorsement? I think that I can try and get the support of the outgoing governor, John M. Patterson. He beat me before, but those things can be patched up especially considering what other bleedin’ hearts are polluting here."
+            "description": "Maybe I should continue banking on an endorsement? I think that I can try and get the support of the outgoing governor, John M. Patterson. He beat me before, but those things can be patched up especially considering what other bleedin’ hearts are polluting here."
         }
     },
     {
@@ -4200,7 +4200,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4373,
             "candidate": 152,
-            "answer_feedback": "You spinned your position here so much compared to 58 it could have made a bonfire! Nothing to worry, you’ll get the KKK’s support."
+            "answer_feedback": "You spinned your position here so much compared to '58 it could have made a bonfire! Nothing to worry, you’ll get the KKK’s support."
         }
     },
     {
@@ -4209,7 +4209,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4374,
             "candidate": 152,
-            "answer_feedback": "Are you a mad man? I’d advise you to watch out for your mailbox in the future. Still, posing the Klan as the cause of the civil right movement has truly resonated with everyone from integrationists to soft segregationists who don’t like the Klan's influence. Really George, you should watch your back."
+            "answer_feedback": "Are you a mad man? I’d advise you to watch out for your mailbox in the future. Still, posing the Klan as the cause of the civil rights movement has truly resonated with everyone from integrationists to soft segregationists who don’t like the Klan's influence. Really George, you should watch your back."
         }
     },
     {
@@ -4227,7 +4227,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4376,
             "candidate": 152,
-            "answer_feedback": "Non-descriptive but people understood where you stood here. Folsom has tried to spin it with him being steadfast in his conviction and you going only where the wind takes you but it still stuck."
+            "answer_feedback": "Non-descriptive but people understood where you stood here. Folsom has tried to spin it with him being steadfast in his convictions and you going only where the wind takes you but it still stuck."
         }
     },
     {
@@ -4263,7 +4263,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4382,
             "candidate": 152,
-            "answer_feedback": "Quite a generic position to take as the segregationist candidate. You are really appealing to the white majority that fear what blacks may do if emancipated and it’s doing wonders to you."
+            "answer_feedback": "Quite a generic position to take as the segregationist candidate. You are really appealing to the white majority that fears what blacks may do if emancipated and it’s doing wonders for you."
         }
     },
     {
@@ -4272,7 +4272,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4384,
             "candidate": 152,
-            "answer_feedback": "Your speech has gone off differently to many people, some say you are fighting against integrationist, big businesses, the planter class or even the jews. Be ready to have to constantly explain what you actually meant here."
+            "answer_feedback": "Your speech has gone off differently to many people, some say you are fighting against integrationists, big businesses, the planter class or even the jews. Be ready to have to constantly explain what you actually meant here."
         }
     },
     {
@@ -4353,7 +4353,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4397,
             "candidate": 152,
-            "answer_feedback": "The crowd clapped to your words. You thought it could have been only politeness as you hoped for more but the fear you saw was yet manifest in their eyes. They are desperate for hope."
+            "answer_feedback": "The crowd clapped to your words. You thought it could have been only politeness as you hoped for more but yet the fear you saw was manifest in their eyes. They are desperate for hope."
         }
     },
     {
@@ -4407,7 +4407,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4479,
             "candidate": 152,
-            "answer_feedback": "Dale is absolutely furious that you went behind his back and made defections among his ranks. While you manage to just barely edge yourself to the second round, you are soundly defeated by Faubus as Dale constantly berates you in the media with all the support from the governor eager to divide you again."
+            "answer_feedback": "Dale is absolutely furious that you went behind his back and made defections among his ranks. While you manage to just barely edge yourself to the second round, you are soundly defeated by Faubus as Dale constantly berates you in the media with all the support from the governor eager to divide you two again."
         }
     },
     {
@@ -4416,7 +4416,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4480,
             "candidate": 152,
-            "answer_feedback": "Dale was perfectly for the idea until the day where the program was to start. You saw him coming to the scene sweating. An instant after he demanded this be cancelled. The next day, he officially drops out and supports you for the candidacy. Sid, you may be back in Little Rock soon!"
+            "answer_feedback": "Dale was perfectly fine for the idea until the day when the program was to start. You saw him coming to the scene sweating. An instant after he demanded this be cancelled. The next day, he officially drops out and supports you for the candidacy. Sid, you may be back in Little Rock soon!"
         }
     },
     {
@@ -4425,7 +4425,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4481,
             "candidate": 152,
-            "answer_feedback": "There is a lot in your words, a mix of union between races, of fight against northern intervention, of loyalty. This message resonated with many as both true and southern in the democratic party. You remain the Wallace they know"
+            "answer_feedback": "There is a lot in your words, a mix of union between races, of fight against northern intervention, of loyalty. This message resonated with many as both true and southern in the Democratic Party. You remain the Wallace they know"
         }
     },
     {
@@ -4434,7 +4434,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4482,
             "candidate": 152,
-            "answer_feedback": "Ouch! Now that really stinged his image as a runner up. This zinger is repeated over and over again by the media. The party is happy by your loyalty but hoped you’d be more than short quippy phrases."
+            "answer_feedback": "Ouch! Now that really stinged his image as a runner-up. This zinger is repeated over and over again by the media. The party is happy by your loyalty but hoped you’d be more than short quippy phrases."
         }
     },
     {
@@ -4452,7 +4452,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4484,
             "candidate": 152,
-            "answer_feedback": "As you hinted that you’d support the republican, the press immediately got to call you “George Scallywag” for supporting a candidate of the party of Lincoln. Bad move."
+            "answer_feedback": "As you hinted that you’d support the Republican, the press immediately got to calling you “George Scallywag” for supporting a candidate of the party of Lincoln. Bad move."
         }
     },
     {
@@ -4461,7 +4461,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4489,
             "candidate": 152,
-            "answer_feedback": "In the first moment you heard Connor’s name and were ready to leave but both you and Lurleen stopped in their tracks as they heard there was an error. An hour later, they confirmed you as the democratic candidate. You feel a great relief wash over you, but as your eyes meet those of your wife so full of hope, your mind doubts once more."
+            "answer_feedback": "In the first moment you heard Connor’s name and were ready to leave but both you and Lurleen stopped in your tracks as you heard there was an error. An hour later, they confirmed you as the Democratic candidate. You feel a great relief wash over you, but as your eyes meet those of your wife so full of hope, your mind doubts once more."
         }
     },
     {
@@ -4497,7 +4497,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4506,
             "candidate": 152,
-            "answer_feedback": "While you are talking to the white house, it quickly became obvious that it was not going to happen. While Jack isn’t opposed to it in principle, he feels that the situation is too tense and a Massachusetts liberal will only make things worse, not better. You had quite a constructive conversation but… got no help from Washington."
+            "answer_feedback": "While you are talking to the white house, it quickly became obvious that it was not going to happen. While Jack isn’t opposed to it in principle, he feels that the situation is too tense and a Massachusetts liberal will only make things worse, not better. You had quite a constructive conversation but… Got no help from Washington."
         }
     },
     {
@@ -4506,7 +4506,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4511,
             "candidate": 152,
-            "answer_feedback": "You heard another rock pelting on your window as you understood children were making a scene. You drove them away. Getting back to your room, after a few small talks with your wife. Your hand stayed in her for long enough for her to ask if something was wrong. You hoped deep in your heart that nothing was."
+            "answer_feedback": "You heard another rock pelting on your window as you understood children were making a scene. You drove them away. Getting back to your room, after a few small talks with your wife, your hand stayed in her's for long enough for her to ask if something was wrong. You hoped deep in your heart that nothing was."
         }
     },
     {
@@ -4515,7 +4515,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4515,
             "candidate": 152,
-            "answer_feedback": "If you say so George, the party has already abandoned this idea and has gone up and nominated Bull Connor as candidate for the National States' Rights Party to defeat deGraffenried. There is nothing you can do."
+            "answer_feedback": "If you say so George, the party has already abandoned this idea and has gone up and nominated Bull Connor as the candidate for the National States' Rights Party to defeat deGraffenried. There is nothing you can do."
         }
     },
     {
@@ -4533,7 +4533,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4518,
             "candidate": 152,
-            "answer_feedback": "While you managed to get a better score than 4 years ago, by about 10 thousand votes, Bull is nominated for the democratic party. Your heart is heavy but as you look back to your wife, you know that your conscience won’t bother you anymore."
+            "answer_feedback": "While you managed to get a better score than 4 years ago, by about 10 thousand votes, Bull is nominated for the Democratic Party. Your heart is heavy but as you look back to your wife, you know that your conscience won’t bother you anymore."
         }
     },
     {
@@ -4560,7 +4560,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4372,
             "candidate": 152,
-            "answer_feedback": "Would you believe it but the borderline guy even by Alabama standard actually is fine with supporting you as he hopes to somewhat moderate his own image by posing with you in photos so that his senate run goes better. George, let’s hope your combined acidity lands just right."
+            "answer_feedback": "Wouldn't you believe it but the borderline guy even by Alabama standard actually is fine with supporting you as he hopes to somewhat moderate his own image by posing with you in photos so that his senate run goes better. George, let’s hope your combined acidity lands just right."
         }
     },
     {
@@ -4569,7 +4569,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15497,
             "candidate": 152,
-            "answer_feedback": "Getting the ex-governor's support should have been an easy deal but it seems that Jim has heard of your attempt to “reinvent yourself” from somewhere. It seems like he will try his own to run for the governorship, unless you keep true to your moderate views more in line with his."
+            "answer_feedback": "Getting the ex-governor's support should have been an easy deal but it seems that Jim has heard of your attempt to “reinvent yourself” from somewhere. It seems like he will try his own run for the governorship, unless you keep true to your moderate views more in line with his."
         }
     },
     {
@@ -4578,7 +4578,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15499,
             "candidate": 152,
-            "answer_feedback": "Trying to spin a Segregationist point as patriotism? Now you may just have a winning strategy!"
+            "answer_feedback": "Trying to spin a segregationist point as patriotism? Now you may just have a winning strategy!"
         }
     },
     {
@@ -4596,7 +4596,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4389,
             "candidate": 152,
-            "answer_feedback": "You are very lucky that the man in front of you was white. He accepted your point of view even if you didn’t really answer his question. The interview went out without a problem."
+            "answer_feedback": "You are very lucky that the man in front of you was white. He accepted your point of view even if you didn’t really answer his question. The interview went on without a problem."
         }
     },
     {
@@ -4614,7 +4614,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15504,
             "candidate": 152,
-            "answer_feedback": "As you heard Bull Connor was to be nominated in your stead to be the opponent of deGraffenried, you’ve hit his face so hard it broke his nose. You’ve been put under a restraining order for assault. Be thankful you’re not going to prison."
+            "answer_feedback": "As you heard Bull Connor was to be nominated in your stead to be the opponent of deGraffenried, you’ve hit his face so hard you broke his nose. You’ve been put under a restraining order for assault. Be thankful you’re not going to prison."
         }
     },
     {
@@ -4623,7 +4623,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15506,
             "candidate": 152,
-            "answer_feedback": "While you finished reading reports of your growing support in the night. Lurleen woke you up as a burning cross was lit up on your front porch. You hold her in your arms. You promised to her you were to be a better husband since your infidelity. All you can hear in your head is doubts."
+            "answer_feedback": "While you finished reading reports of your growing support in the night, Lurleen woke you up as a burning cross was lit up on your front porch. You hold her in your arms. You promised to her you were to be a better husband since your infidelity. All you can hear in your head is doubts."
         }
     },
     {
@@ -4650,7 +4650,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4507,
             "candidate": 152,
-            "answer_feedback": "As you spoke to Johnson, for a few dozen minutes you wish you had not had he taken the opportunity to complain about all and everything. However, just as you were about to lose hope, he accepted to make an appearance and a speech in Birmingham. You could hear it in his laugh that he’s the kind of man to play with his food."
+            "answer_feedback": "As you spoke to Johnson, for a few dozen minutes you wish you had not as he had taken the opportunity to complain about all and everything. However, just as you were about to lose hope, he accepted to make an appearance and give a speech in Birmingham. You could hear it in his laugh that he’s the kind of man to play with his food."
         }
     },
     {
@@ -4668,7 +4668,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15516,
             "candidate": 152,
-            "answer_feedback": "As your campaign goes door to door and pastors, businessmen, housewives and more would show their support to you in the walls, you quickly found that many of them were suffering from the same threat you had now. Hopefully you can quell this terror by the end of your mandate."
+            "answer_feedback": "As your campaign goes door to door and as pastors, businessmen, housewives and more would show their support to you in the walls, you quickly found that many of them were suffering from the same threat you had now. Hopefully you can quell this terror by the end of your mandate."
         }
     },
     {
@@ -4740,7 +4740,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15535,
             "candidate": 152,
-            "answer_feedback": "“Yes it is Sid Mcmath.” /// “To talk about the need for desegregation in Alabama?” /// “The little rock Nines?” /// “Willis Ricketts is barely an opponent, I can find the time.” /// “I’m on my way.”"
+            "answer_feedback": "\“Yes it is Sid Mcmath.\” /// \“To talk about the need for desegregation in Alabama?\” /// \“The little rock Nines?\” /// \“Willis Ricketts is barely an opponent, I can find the time.\” /// \“I’m on my way.\”"
         }
     },
     {
@@ -4758,7 +4758,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15540,
             "candidate": 152,
-            "answer_feedback": "Your old friend accepts and is dropping out to endorse you see you rocketing in the polls to first place ahead of Bull. It’s a good start."
+            "answer_feedback": "Your old friend accepts and drops out to endorse you, seeing you rocketing in the polls to first place ahead of Bull. It’s a good start."
         }
     },
     {
@@ -4794,7 +4794,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55689,
             "candidate": 152,
-            "answer_feedback": "The meeting went well, you met a few hot headed youth but that's nothing you weren't prepared for. There was that reverend that caught your eyes, with a booming voice and natural charisma. He seemed suspicious at first, but after his speech and a few more handshakes, the crowd, both black and white, was yours."
+            "answer_feedback": "The meeting went well, you met a few hot headed youth but that's nothing you weren't prepared for. There was that reverend that caught your eyes, with a booming voice and natural charisma. He seemed suspicious of you at first, but after his speech and a few more handshakes, the crowd, both black and white, was yours."
         }
     },
     {
@@ -4812,7 +4812,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55695,
             "candidate": 152,
-            "answer_feedback": "The different meeting went fantastically! You seemed to have quite a natural charm for both men and women at those crowds when you speak of the great Robert E. Lee and the southern heritage the Yankee's are trying to take away from yall, it got some to tears."
+            "answer_feedback": "The different meeting went fantastically! You seemed to have quite a natural charm for both men and women at those crowds when you speak of the great Robert E. Lee and the southern heritage the Yankees are trying to take away from y'all, it got some to tears."
         }
     },
     {
@@ -4839,7 +4839,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55703,
             "candidate": 152,
-            "answer_feedback": "At the Confederate Memorial Monument, you spoke of betrayal, of doom and destruction that deGraffenried’s campaign would bring, the crowd shook into a frenzy. You had seen them like that before, against you. It feels inebriating to be the one to command the masses."
+            "answer_feedback": "At the Confederate Memorial Monument, as you spoke of betrayal, of doom and destruction that deGraffenried’s campaign would bring, the crowd shook into a frenzy. You had seen them like that before, against you. It feels inebriating to be the one to command the masses."
         }
     },
     {
@@ -4875,7 +4875,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55712,
             "candidate": 152,
-            "answer_feedback": "Has the fighting little judge become soft all of the sudden? This was so tepid you felt the loss of enthusiasm all the way into your ivory tower. They were all idiots anyway, couldn't they see that their violence would spell doom to us all?"
+            "answer_feedback": "Has the fighting little judge become soft all of the sudden? This was so tepid you felt the loss of enthusiasm all the way into your ivory tower. They were all idiots anyway, couldn't they see that their violence would spell doom for us all?"
         }
     },
     {
@@ -4902,7 +4902,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55719,
             "candidate": 152,
-            "answer_feedback": "You thought you could blow each of his strike back visciously, to destroy him with your facts and logic. But as he asked about how you were not always that crazy fascist spewing hate everywhere when you defended innocent blacks, you faltered. Oh how could you have just punched his face right here and there..."
+            "answer_feedback": "You thought you could blow each of his strikes back viciously, to destroy him with your facts and logic. But as he asked about how you were not always that crazy fascist spewing hate everywhere when you defended innocent blacks, you faltered. Oh how you could have just punched his face right here and there..."
         }
     },
     {
@@ -4911,7 +4911,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55721,
             "candidate": 152,
-            "answer_feedback": "Ryan tried to keep his cool, he really did, but at the end, you could see him get redder as you continued on calling him some stooge and puppet of powers he wasn't even wise enough to understand had been controlling him. He kept on denying, and kept on looking pathetic."
+            "answer_feedback": "Ryan tried to keep his cool, he really did, but at the end, you could see him get redder as you continued on calling him some stooge and puppet of powers he wasn't even wise enough to understand that had been controlling him. He kept on denying, and kept on looking pathetic."
         }
     },
     {
@@ -4956,7 +4956,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55774,
             "candidate": 152,
-            "answer_feedback": "You swear you broke your knee as you tackled down. The cacophony of screams, shot and run was deafening. Just in front of you, a teenage boy would feel a thousand kicks on his back in the stampede. The police sirens would blare and yet they seemed to be barely active as you could see lone man run from a roof."
+            "answer_feedback": "You swear you broke your knee as you were tackled down. The cacophony of screams, shots and run was deafening. Just in front of you, a teenage boy would feel a thousand kicks on his back in the stampede. The police sirens would blare and yet they seemed to be barely active as you could see lone man run from a roof."
         }
     },
     {
@@ -4965,7 +4965,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55776,
             "candidate": 152,
-            "answer_feedback": "You swear you broke your knee as you tackled down. The cacophony of screams, shot and run was deafening. Just in front of you, a teenage boy would feel a thousand kicks on his back in the stampede. The police sirens would blare and yet they seemed to be barely active as you could see lone man run from a roof."
+            "answer_feedback": "You swear you broke your knee as you were tackled down. The cacophony of screams, shots and run was deafening. Just in front of you, a teenage boy would feel a thousand kicks on his back in the stampede. The police sirens would blare and yet they seemed to be barely active as you could see lone man run from a roof."
         }
     },
     {
@@ -4983,7 +4983,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55781,
             "candidate": 152,
-            "answer_feedback": "After much preparation and much hype pushed by your aids, the sight of a deflated pale little man barely able to complete his sentences had struck hard. You could see that they pitied you. However, who votes for a man they pity?"
+            "answer_feedback": "After much preparation and much hype pushed by your aides, the sight of a deflated pale little man barely able to complete his sentences had struck hard. You could see that they pitied you. However, who votes for a man they pity?"
         }
     },
     {
@@ -5019,7 +5019,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55791,
             "candidate": 152,
-            "answer_feedback": "It was a very strange show. You would have been more than satisfied to hear that LeMay just say that your ailments where temporary and are now fully gone much like thousands of others but... For whatever reason, he felt the need to go on a tangent about communist infiltrators and an alliance between southern fascists and the Soviet Union to take out democracy. It was better than nothing, but only barely."
+            "answer_feedback": "It was a very strange show. You would have been more than satisfied for LeMay to just say that your ailments were temporary and are now fully gone much like thousands of others but... For whatever reason, he felt the need to go on a tangent about communist infiltrators and an alliance between southern fascists and the Soviet Union to take out democracy. It was better than nothing, but only barely."
         }
     },
     {
@@ -5028,7 +5028,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55793,
             "candidate": 152,
-            "answer_feedback": "You were doing the most stereotyped answer to one that strikes on your abilities. You were not in that great of shape but at least people could see that the claims of Martin were at the very least greatly exaggerated, even if you did seem at constant unease with people around you and so in the open. Even so, the damage was done."
+            "answer_feedback": "You were doing the most stereotypical answer to one that strikes on your abilities. You were not in that great of a shape but at least people could see that the claims of Martin were at the very least greatly exaggerated, even if you did seem at constant unease with people around you and so in the open. Even so, the damage was done."
         }
     },
     {
@@ -5037,7 +5037,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55795,
             "candidate": 152,
-            "answer_feedback": "Even with your best effort, people with mental issues are not especially well liked in the land of cotton. Still, you've proved a point at those comment to be unnecessarily cruel with even one of Martin's lieutenants apologizing for judging you by the report of your mental state and not the color of your skin."
+            "answer_feedback": "Even with your best efforts, people with mental issues are not especially well liked in the land of cotton. Still, you've proved a point at those comments to be unnecessarily cruel with even one of Martin's lieutenants apologizing for judging you by the report of your mental state and not the color of your skin."
         }
     },
     {
@@ -5046,7 +5046,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55799,
             "candidate": 152,
-            "answer_feedback": "It does! Of course, you don't see the same universal support had it had been 1920 as even the most tolerant progressive find such shows disgraceful, however, no matter how good Martin make himself show, he's still from the opposing team for most American no matter how much he shoots \"Rebels for Martin\"."
+            "answer_feedback": "It does! Of course, you don't see the same universal support if it had been 1920 as even the most tolerant progressive find such shows disgraceful, however, no matter how good Martin makes himself show, he's still from the opposing team for most Americans no matter how much he shoots \"Rebels for Martin\"."
         }
     },
     {
@@ -5064,7 +5064,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55803,
             "candidate": 152,
-            "answer_feedback": "For the first time since reconstruction, you managed to trump the race question by the class question! Even if Martin tries to wrangle himself the self made man, this ain't New York city! Better yet, the red-necks and blue collars even brought some progressive friends hoping to see your term help them more than whatever Martin will bring."
+            "answer_feedback": "For the first time since reconstruction, you managed to trump the race question by the class question! Even if Martin tries to wrangle himself as the self made man, this ain't New York city! Better yet, the red-necks and blue collars even brought some progressive friends hoping to see your term help them more than whatever Martin will bring."
         }
     },
     {
@@ -5073,7 +5073,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55805,
             "candidate": 152,
-            "answer_feedback": "Your insinuations were thought as dangerous, baseless and sickening by your opponents. Martin calls you a paranoid fool and gets back those accusations of you not being sound of mind. You retorted that you had government papers that prove you were 90% sane, something all your adversaries couldn't. Even with that zinger, it focused on your weakness."
+            "answer_feedback": "Your insinuations were thought as dangerous, baseless and sickening by your opponents. Martin calls you a paranoid fool and gets back on those accusations of you not being sound of mind. You retorted that you had government papers that prove you were 90% sane, something all your adversaries couldn't. Even with that zinger, it focused on your weakness."
         }
     },
     {
@@ -5091,7 +5091,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55811,
             "candidate": 152,
-            "answer_feedback": "Your honeyed words were quite something to their ears. You could see they felt much less linked to those of the same skin forced to work the fields than you'd ever believed. They seemed so eager and ready to support you that you were beginning to fear they were just doing it for personal gain. Then again, who care if you got their votes?"
+            "answer_feedback": "Your honeyed words were quite something to their ears. You could see they felt much less linked to those of the same skin forced to work the fields than you'd ever believed. They seemed so eager and ready to support you that you were beginning to fear they were just doing it for personal gain. Then again, who cares if you got their votes?"
         }
     },
     {
@@ -5109,7 +5109,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55817,
             "candidate": 152,
-            "answer_feedback": "Not your best speech but the message went through all but the thickest skulled fools of your rally. There was some tension but you really felt like you dodge a bullet by redirecting their anger straight at your adversaries here."
+            "answer_feedback": "Not your best speech but the message went through all but the thickest-skulled fools of your rally. There was some tension but you really felt like you dodged a bullet by redirecting their anger straight at your adversaries here."
         }
     },
     {
@@ -5145,7 +5145,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55826,
             "candidate": 152,
-            "answer_feedback": "Most looked like mechanical standard answers. However, one of them, an old man from Missouri, was different. He wrote that he had felt the heat of the bullet and the plot for his murder himself and the need to carry on. You had voted for him against your statemens’ wishes back in 48. You kept Truman's letter to yourself."
+            "answer_feedback": "Most looked like mechanical standard answers. However, one of them, an old man from Missouri, was different. He wrote that he had felt the heat of the bullet and the plot for his murder himself and the need to carry on. You had voted for him against your statemans’ wishes back in '48. You kept Truman's letter to yourself."
         }
     },
     {
@@ -5163,7 +5163,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 55831,
             "candidate": 152,
-            "answer_feedback": "Not your best speech but the message went through all but the thickest skulled fools of your rally. There was some tension but you really felt like you dodge a bullet by redirecting their anger straight at your adversaries here."
+            "answer_feedback": "Not your best speech but the message went through all but the thickest skulled fools of your rally. There was some tension but you really felt like you dodged a bullet by redirecting their anger straight at your adversaries here."
         }
     },
     {
@@ -5290,14 +5290,14 @@ function ctsAchievement(achievement, difficultyChecker = true){
 }
 
 campaignTrail_temp.cyoa = true
-var Segregation = 0;
-var KlanAggravation = 0;
-var Gaffe = 0;
-var NominationScore = 0;
-var Dixieland = 0;
-var TemptingFate = 0;
-var ModeratePath = false;
-var SupremacistPath = false;
+var Segregation = 0; // influences segregationist(including variants) or progressive route
+var KlanAggravation = 0; // influences success of progressive path klan assassination
+var Gaffe = 0; // too many causes degraffenried nomination but locked out of third party run
+var NominationScore = 0; // for progressive path nomination
+var Dixieland = 0; // enough causes supremacist path if you dont make too many gaffes
+var TemptingFate = 0; // causes possible second assassination in moderate path
+var ModeratePath = false; // activated by denouncing kkk twice in segregationist route
+var SupremacistPath = false; // activated by dixieland
 
 function tunnel(new_q) {
     return e.questions_json[e.questions_json.map(f=>f.pk).indexOf(new_q)]; 
@@ -5657,7 +5657,7 @@ if (ans == 55700) {
   ctsAchievement("Even worse");
 }
 
-// kkk abandons you after you denounce them twice, supports republican instead  
+// kkk abandons you, supports republican instead  
 if (ModeratePath == true) {
   campaignTrail_temp.questions_json[10] = tunnel(55766);
   campaignTrail_temp.questions_json[11] = tunnel(55773);
