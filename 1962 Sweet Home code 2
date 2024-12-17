@@ -4740,7 +4740,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15535,
             "candidate": 152,
-            "answer_feedback": "\“Yes it is Sid Mcmath.\” /// \“To talk about the need for desegregation in Alabama?\” /// \“The little rock Nines?\” /// \“Willis Ricketts is barely an opponent, I can find the time.\” /// \“I’m on my way.\”"
+            "answer_feedback": "\“Yes, it is Sid Mcmath.\” /// \“To talk about the need for desegregation in Alabama?\” /// \“The Little Rock Nines?\” /// \“Willis Ricketts is barely an opponent, I can find the time.\” /// \“I’m on my way.\”"
         }
     },
     {
